@@ -43,19 +43,3 @@ The project will involve the following steps:
 5. **Model Training:** Training the selected model on the preprocessed dataset using appropriate training and validation techniques.
 
 6. **Model Evaluation:** Assessing the performance of the trained model using relevant evaluation metrics such as accuracy, precision, recall, and F1-score.
-
-## Usage
-
-To utilize this project, follow these steps:
-
-1. **Data Preparation:** Prepare your loan applicant data in a format similar to the provided dataset.
-
-2. **Model Training:** Train the classification model using your prepared data or fine-tune the existing model provided in this project.
-
-3. **Model Evaluation:** Evaluate the performance of the trained model using relevant evaluation metrics to ensure its effectiveness in predicting credit risk.
-
-4. **Integration:** Integrate the trained model into your credit approval system or application to automate the decision-making process.
-
-## Conclusion
-
-This README provides an overview of the credit approval classification project, including the dataset description, objectives, implementation steps, and usage instructions. By leveraging machine learning techniques, this project aims to enhance the efficiency and accuracy of credit risk assessment, ultimately benefiting financial institutions and loan applicants alike.
