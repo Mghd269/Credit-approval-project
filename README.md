@@ -44,8 +44,6 @@ The project will involve the following steps:
 
 6. **Model Evaluation:** Assessing the performance of the trained model using relevant evaluation metrics such as accuracy, precision, recall, and F1-score.
 
-7. **Deployment:** Deploying the trained model into a production environment where it can be used for real-time credit risk assessment.
-
 ## Usage
 
 To utilize this project, follow these steps:
